@@ -43,16 +43,6 @@ const LandingPage = () => {
           to the{" "}
           <Highlight
             duration={0.2}
-            gradient={{
-              dark: {
-                from: "#ED6C30",
-                to: "#ED6C30",
-              },
-              light: {
-                from: "#ED6C30",
-                to: "#ED6C30",
-              },
-            }}
             className="text-white font-heading bg-[#ED6C30] px-3"
           >
             SOON
